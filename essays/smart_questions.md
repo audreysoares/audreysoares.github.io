@@ -6,10 +6,9 @@ title: "smart questions"
 date: 2023-01-26
 published: true
 labels:
-  - Engineering
+  - Questions
+  - StackOverFlow
 ---
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 Have you ever been scared to ask a question in class out of fear of sounding dumb? For all the extroverted, confident people out there, you probably have no idea what I'm talking about. But anyone who was a quiet, shy kid could tell you that they'd much rather walk up to the teacher after class than ask a question in front of everyone that may seem dumb. 
 
