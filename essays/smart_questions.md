@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "smart questions"
+title: "Trying to not look dumb"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-26
 published: true
