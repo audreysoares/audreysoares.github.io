@@ -11,7 +11,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-Have you ever been scared to ask a question in class out of fear of sounding dumb? For all the extroverted, confident people out there, you probably have no idea what I'm talking about. But for anyone who was a quiet, shy kid could tell you that they'd much rather walk up to the teacher after class than ask a question in front of everyone that may seem dumb. 
+Have you ever been scared to ask a question in class out of fear of sounding dumb? For all the extroverted, confident people out there, you probably have no idea what I'm talking about. But anyone who was a quiet, shy kid could tell you that they'd much rather walk up to the teacher after class than ask a question in front of everyone that may seem dumb. 
 
 Now, imagine posting that question to an online forum where not only the people in your class can see it, but everyone on the planet that has access to the internet. You'd probably want to make sure that what you're asking isn't a dumb question. 
 
@@ -21,26 +21,25 @@ But what exactly is a dumb question?
 
 Dumb questions are typically questions in which the answers are obvious. Specifically in the context of coding, dumb questions are questions in which finding the answers are obvious, as long as you're willing to put in a little bit of effort. There are many ways to find the answer to a coding question without asking anyone directly. One could google it, read through FAQs, read source code, etc. 
 
-## In the context of engineering
+When posting on a site like Stack Overflow, it's important to remember that you are not entitled to anyone's response. Posting a question that you could have found the answer to with a quick google search is likely to get ignored. An example of such is "How do I print to console in JavaScript." 
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Smart Questions
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+Smart questions are well thought out, concise, and have relevent subject headers. An example of a smart question clearly states the problem that the user is having, and provides information on what the user has already tried. If someone has responded with the correct solution, then the user should edit their original post to show that their question has been solved, so that someone else with the same problem can refer to their thread rather than making a new one. 
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
+```
+Q: What is the purpose of Node.js module.exports and how do you use it?
 
-## In the context of relationships
+I can't seem to find any information on this, but it appears to be a rather important part of Node.js as I often see it in source code.
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
+According to the Node.js documentation:
+*module
 
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
+A reference to the current module. In particular module.exports is the same as the exports object. See src/node.js for more information.*
 
-Relationships have always been difficult, and by nature will continue to be so.
+But this doesn't really help.
 
-## Okay!
+What exactly does module.exports do, and what would a simple example be?
+```
 
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+The above question shows that the user tried to find the solution on their own to no avail. They also provide documentation regarding their topic. This question was answered and the user marked the answer as accepted. THis makes it easy for anyone with the same problem to quickly get help. 
