@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "smart questions"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-01-26
 published: true
 labels:
   - Engineering
@@ -11,23 +11,15 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Have you ever been scared to ask a question in class out of fear of sounding dumb? For all the extroverted, confident people out there, you probably have no idea what I'm talking about. But for anyone who was a quiet, shy kid could tell you that they'd much rather walk up to the teacher after class than ask a question in front of everyone that may seem dumb. 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+Now, imagine posting that question to an online forum where not only the people in your class can see it, but everyone on the planet that has access to the internet. You'd probably want to make sure that what you're asking isn't a dumb question. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+But what exactly is a dumb question? 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+## Dumb Questions
 
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Dumb questions are typically questions in which the answers are obvious. Specifically in the context of coding, dumb questions are questions in which finding the answers are obvious, as long as you're willing to put in a little bit of effort. There are many ways to find the answer to a coding question without asking anyone directly. One could google it, read through FAQs, read source code, etc. 
 
 ## In the context of engineering
 
