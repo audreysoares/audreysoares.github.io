@@ -12,7 +12,7 @@ summary: "A lantern I made using copper metal stained black and stained glass."
 
 <div class="text-center p-4">
   <img width="200px" src="../img/glass1.jpg" class="img-thumbnail" >
-  <img width="325px" src="../img/glass2.jpg" class="img-thumbnail" >
+  <img width="320px" src="../img/glass2.jpg" class="img-thumbnail" >
 </div>
 
 Senior year of High School, I created a lantern for a class called "Creative Metals and Glass." 
