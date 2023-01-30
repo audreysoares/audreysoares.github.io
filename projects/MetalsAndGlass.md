@@ -19,9 +19,11 @@ Senior year of High School, I created a lantern for a class called "Creative Met
 
 ## How it was made 
 
-I cut the copper metal into two square pieces, which I shaped into the top and base of my lantern. I stained the copper pieces black by using liver of sulfur, a mixture that oxidizes the copper, turning it black. I then cut the different colored stained glass pieces into triangular and quadrangular pieces using a diamond cutter. The design of the windows for the lanterns were based off the bind runes for courage, happiness, love, and creativity. 
+I cut the copper metal into two square pieces, which I shaped into the top and base of my lantern. I stained the copper pieces black by using liver of sulfur, a mixture that oxidizes the copper, turning it black. 
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bindrunes.png">
+
+I then cut the different colored stained glass pieces into triangular and quadrangular pieces using a diamond cutter. The design of the windows for the lanterns were based off the bind runes for courage, happiness, love, and creativity. 
 
 cut glass, copper tape, solder 
 
