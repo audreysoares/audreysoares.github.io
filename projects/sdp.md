@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/lightBoardSquare.png
 title: "Light Teching"
 date: 2018
 published: true
