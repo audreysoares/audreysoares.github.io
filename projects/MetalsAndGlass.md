@@ -12,18 +12,14 @@ summary: "A lantern I made using copper metal stained black and stained glass."
 
 <div class="text-center p-4">
   <img width="200px" src="../img/glass1.jpg" class="img-thumbnail" >
-  <img width="350px" src="../img/glass2.jpg" class="img-thumbnail" >
+  <img width="348px" src="../img/glass2.jpg" class="img-thumbnail" >
 </div>
-
-My senior year of High School, I took a class called "Creative Metals and Glass." 
 
 Senior year of High School, I created a lantern for a class called "Creative Metals and Glass." 
 
 ## How it was made 
 
-I cut the copper metal 
-
-I stained the copper metal black by using liver of sulfur, a mixture that oxidizes 
+I cut the copper metal into two square pieces, which I shaped into the top and base of my lantern. I stained the copper pieces black by using liver of sulfur, a mixture that oxidizes the copper, turning it black. I then cut the different colored stained glass pieces into triangular and quadrangular pieces using a diamond cutter. The design of the windows for the lanterns were based off the bind runes for courage, happiness, love, and creativity. 
 
 cut glass, copper tape, solder 
 
