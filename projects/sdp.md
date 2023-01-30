@@ -11,7 +11,7 @@ labels:
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
-<img class="img-fluid" src="../img/lightBoard.jpg">
+<img class="img-fluid" src="../img/lightBoard.jpg"> words to see if they appear to the right of the image 
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
