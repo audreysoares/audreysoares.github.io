@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/lightBoardSquare.png
+image: img/lightBoardSquare.jpg
 title: "Light Teching"
 date: 2018
 published: true
