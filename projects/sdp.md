@@ -6,9 +6,9 @@ title: "Light Teching"
 date: 2018
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Theatre
+  - Lighting
+summary: "My experience light teching for a student directed play."
 ---
 
 <div class="text-center p-4">
