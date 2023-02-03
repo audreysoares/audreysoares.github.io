@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/TamasFilming3.jpg
-title: "Tamas Short Film"
+title: "And the Waves Crashed - A Short Film"
 date: 2023
 published: true
 labels:
@@ -25,9 +25,9 @@ A Script Supervisor is the person on set in charge with mainting continuity. The
 
 ## My experience
 
-When I showed up for the first film day, I was handed a binder with all the papers I would need to fill out. The main one was on the back of all the script pages where you could take notes for each scene. The camera crew gave me an iPad that was synced with the camera so I, and the director, could see what the camera was seeing as we filmed. I didn't know either of the two camera crew guys, nor the girl operating the boom prior to shooting, but as we continued to film, the whole cast and crew got pretty comfortable with each other. We filmed for about 12 hours a day, 4 days straight. 
+When I showed up for the first film day, I was handed a binder with all the papers I would need to fill out. The main one was on the back of all the script pages where you could take notes for each scene. The camera crew gave me an iPad that was synced with the camera so I, and the director, could see what the camera was seeing as we filmed. We filmed for about 12 hours a day, 4 days straight. 
 
-As the days went on, I got used to taking notes from the director, camera crew, and boom operator. Keeping track of which scenes we finished filming and which we had yet to complete. Which scenes we were filming in which days and how may more we had to film per day. 
+As the days went on, I got used to taking notes from the director, camera crew, and boom operator. I kept track of which scenes needed to filmed on which days and made sure we were on track as we continued to film. 
 
 <div class="text-center p-4">
   <img width="200px" src="../img/TamasFilming4.jpg" class="img-thumbnail" >
