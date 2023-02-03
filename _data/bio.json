@@ -10,33 +10,31 @@
     "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "audreysoares", "url": "http://github.com/audreysoares" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/audrey-soares-00aa89261/" }
+      { "network": "linkedin", "username": "audreysoares", "url": "https://www.linkedin.com/in/audrey-soares-00aa89261/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "Mathematics" },
+    { "name": "Film" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windowns" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2020",
+      "endDate": "2021",
       "courses": [
       ]
     }
