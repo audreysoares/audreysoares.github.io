@@ -1,0 +1,37 @@
+---
+layout: essay
+type: essay
+title: "The difficult things will always be difficult"
+# All dates must be YYYY-MM-DD format!
+date: 2016-02-06
+published: false
+labels:
+  - Coding Standards
+  - ESLint
+---
+
+My first experience with coding standards was in my intro to comp sci class. This was before I chose comp sci as my major. Not really knowing anything about coding and programming, I viewed it as a way of making code look pretty. If everything you write is in the same coding standard, then it all looks organized. Sleak. Easy to read. 
+
+Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+
+But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+
+Here's what I think: the difficult things will always be difficult.
+
+## ESLint
+
+After using ESLint with IntelliJ for about a week, my impressions of it are that it is really picky. It's like that friend who's hard to eat with because they don't like a lot of things. For example, I have this habit of adding a space to the end of every single line. It's just how I naturally type. Once I finish a sentence or thought, I hit space bar. Ending a line with a semi colon, I hit space bar. ESLint hates this. Everytime I code, it gives me 10 error messages telling me to remove the useless space at the end of each line. 
+
+It also doesn't like it when you create a varible that is not being used, even if you've just typed the variable and have had no time to use it because you literally just typed it. It wants you to use it now. 
+
+Now, all this may sound like I'm complaining about ESLint, but I actually really enjoy it. Picture that picky friend again. Now imagine if they knew every menu item of every resturant that existed on this planet, and they told you exactly which places they would like to go. ESLint points out every single thing it doesn't like about your code, but it tells you exactly what its problem with your code is. 
+
+ESLint may be a very picky friend, but they are a decisive picky friend. 
+
+## Okay!
+
+So back to the original premise; why is being one of the club officers so difficult?
+
+And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
+
+Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
