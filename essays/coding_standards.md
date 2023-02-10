@@ -22,11 +22,9 @@ ESLint is a tool that looks through your code as you type it, and notifies you o
 
 After using ESLint with IntelliJ for about a week, my impressions of it is that it is really picky. It's like that friend who's hard to eat with because they don't like a lot of things. For example, I have this habit of adding a space to the end of every single line. It's just how I naturally type. Once I finish a sentence or thought, I hit space bar. Ending a line with a semi colon, I hit space bar. ESLint hates this. Everytime I code, it gives me 10 error messages telling me to remove the useless space at the end of each line. 
 
-*ESLint: Trailing spaces not allowed. (no-trailing-spaces) : 110*
-*ESLint: Trailing spaces not allowed. (no-trailing-spaces) : 111*
-*ESLint: Trailing spaces not allowed. (no-trailing-spaces) : 112*
-*ESLint: Trailing spaces not allowed. (no-trailing-spaces) : 114*
-*ESLint: Trailing spaces not allowed. (no-trailing-spaces) : 117*
+<div class="text-center p-4">
+  <img width="300px" src="../img/ESLintError.png" class="img-thumbnail" >
+</div>
 
 It also doesn't like it when you create a varible that is not being used, even if you've just typed the variable and have had no time to use it because you literally just typed it. It wants you to use it now. 
 
