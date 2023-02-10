@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "A very picky friend"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
 published: false
@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-My first experience with coding standards was in my intro to comp sci class. This was before I chose comp sci as my major. Not really knowing anything about coding and programming, I viewed it as a way of making code look pretty. If everything you write is in the same coding standard, then it all looks organized. Sleak. Easy to read. 
+My first experience with coding standards was in my intro to comp sci class. This was before I chose computer science as my major. Not really knowing anything about coding and programming, I viewed it as a way of making code look pretty. If everything you write is in the same coding standard, then it all looks organized, sleak, and easy to read. 
 
 Having learned slightly more about coding and programming, I've learned that some coding standards can acctually help you with a lot more than looking organized. With the help of something like ESLint, it can make you a better programmer. 
 
