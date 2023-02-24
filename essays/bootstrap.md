@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beautiful Bootstrap"
+title: "Buildig with Beautiful Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
