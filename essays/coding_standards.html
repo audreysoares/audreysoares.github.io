@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="A very picky friend | Audrey Soares | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/audreysoares.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Audrey Soares | Professional Portfolio">
+    <meta property="og:url" content="https://audreysoares.github.io/essays/coding_standards.html">
+    <meta property="og:title" content="A very picky friend | Audrey Soares | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/audreysoares.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>A very picky friend | Audrey Soares | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Audrey Soares</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">A very picky friend</h1>
+  <span class="date">09 Feb 2023</span>
+  <hr>
+  <p>My first experience with coding standards was in my intro to comp sci class. This was before I chose computer science as my major. Not really knowing anything about coding and programming, I viewed it as a way of making code look pretty. If everything you write is in the same coding standard, then it all looks organized, sleak, and easy to read.</p>
+
+<p>Having learned slightly more about coding and programming, I’ve learned that some coding standards can actually help you with a lot more than looking organized. With the help of something like ESLint, it can make you a better programmer.</p>
+
+<h2 id="eslint">ESLint</h2>
+
+<p>ESLint is a tool that looks through your code as you type it, and notifies you of any errors. It is super useful when coding with Javascript. The error messages it gives are super accurate, and it gives suggestions for exactly what to change. When there are no errors, it gives you a green checkmark.</p>
+
+<h2 id="my-experience-with-eslint">My Experience with ESLint</h2>
+
+<p>After using ESLint with IntelliJ for about a week, my impressions of it is that it is really picky. It’s like that friend who’s hard to eat with because they don’t like a lot of things. For example, I have this habit of adding a space to the end of every single line. It’s just how I naturally type. Once I finish a sentence or thought, I hit space bar. Ending a line with a semi colon, I hit space bar. ESLint hates this. Everytime I code, it gives me 10 error messages telling me to remove the useless space at the end of each line.</p>
+
+<div class="text-center p-4">
+  <img width="500px" src="../img/ESLintError.png" class="img-thumbnail" />
+</div>
+
+<p>It also doesn’t like it when you create a varible that is not being used, even if you’ve just typed the variable and have had no time to use it because you literally just typed it. It wants you to use it now.</p>
+
+<p><em>ESLint: ‘variable’ is assigned a value but never used. (no-unused-vars) : 119</em></p>
+
+<p>Now, all this may sound like I’m complaining about ESLint, but I actually really enjoy it. Picture that picky friend again. Now imagine if they knew every menu item of every resturant that existed on this planet, and they told you exactly which places they would like to go. ESLint points out every single thing it doesn’t like about your Javascript code, but it tells you exactly what its problem with your code is. This is how it makes you a better programmer.</p>
+
+<p>Not only will ESLint fix your spacing, it will tell you whether things are unnecessary. Why create a variable that you never use again. ESLint goes so far as to completely get rid of an else block if it’s unnecessary. Why store a result in a variable when you’re going to return it the next line, and can just return the result directly.</p>
+
+<p>ESLint may be a very picky friend, but they are a decisive picky friend. Rather than just rejecting every option you give it, it provides feedback. You never need to know what it wants. It makes that very clear. And getting that green checkmark at the end of that day feels really nice.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

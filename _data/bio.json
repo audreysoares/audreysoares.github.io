@@ -1,0 +1,56 @@
+{
+  "basics": {
+    "name": "Audrey Soares",
+    "label": "Student",
+    "picture": "https://github.com/audreysoares.png",
+    "email": "amsoares@hawaii.edu",
+    "phone": "808-783-5961",
+    "website": "https://audreysoares.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "audreysoares", "url": "http://github.com/audreysoares" },
+      { "network": "linkedin", "username": "audreysoares", "url": "https://www.linkedin.com/in/audrey-soares-00aa89261/" }
+    ]
+  },
+  "interests": [
+    { "name": "Programming" },
+    { "name": "Mathematics" },
+    { "name": "Theatre" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2020",
+      "endDate": "2021",
+      "courses": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
