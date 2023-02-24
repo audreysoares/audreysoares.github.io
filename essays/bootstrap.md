@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beautiful Bootstrap"
+title: "Beautiful Bootstrap is a Baddie"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
@@ -9,6 +9,8 @@ labels:
   - UI Frameworks
   - Bootstrap
 ---
+
+> Baddie: slang. a girl who is always slaying the game and always on fleek. Basically, a girl who is extremely put together and looks phenomenal even on her off days
 
 ## HTML and CSS
 
