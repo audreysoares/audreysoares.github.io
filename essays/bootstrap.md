@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beautiful Bootstrap is a Baddie"
+title: "Beautiful Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
 published: true
@@ -10,17 +10,15 @@ labels:
   - Bootstrap
 ---
 
-> Baddie: slang. a girl who is always slaying the game and always on fleek. Basically, a girl who is extremely put together and looks phenomenal even on her off days
-
 ## HTML and CSS
 
-If you've ever tried to make a website using HTML, you understand the struggle. For those of you who do not, let me explain. HTML stands for HyperText Markup Language and it's used to format the elements on a webpage. You could use it to add heading, paragraphs, and images to a web page. You could then use CSS, Cascading Style Shetts, to choose the color and font of the texts. You could format the text and images to appear on the left, center, or right part of the screen, and use can use margins and padding to adjust the spacing of everything. Everything that HTML and CSS gives you is enough to make a web page. So what's the problem? 
+If you've ever tried to make a website using HTML, you understand the struggle. For those of you who do not, let me explain. HTML stands for HyperText Markup Language and it's used to format the elements on a webpage. You could use it to add heading, paragraphs, and images to a web page. You could then use CSS, Cascading Style Sheets, to choose the color and font of the texts. You could format the text and images to appear on the left, center, or right part of the screen, and you can use margins and padding to adjust the spacing of everything. Everything that HTML and CSS gives you is enough to make a web page. So what's the problem? 
 
-The thing about HTML and CSS is that I don't think it is too difficult to learn, but it is difficult to create a good looking web page with just that. It takes longer to have to format everything to exactly how you want it to be, and if you want your webpage to look good not only on a laptop but also on a phone screen, you'll probably want to use a UI Framework. 
+The thing about HTML and CSS is that I don't think it is too difficult to learn, but it is difficult to create a good looking webpage with just that. It takes longer to have to format everything to exactly how you want it to be, and if you want your webpage to look good not only on a laptop but also on a phone screen, you'll probably want to use a UI Framework. 
 
 ## Bootstrap 
 
-Bootstrap 5 is a CSS framework for creating responsive webpages in a faster and easier way. It lets you create buttons, cards, dropdowns, lists, tabs, and so many other things that help format your webpage. You can create a navbar that goes at the top of your site, and a footer at the bottom. You can create icons that link to different social media platforms and a search bars. You can format things using rows and columns. Most importantly, you can create these things quickly, and they'll look good on any size screen. This sounds great! Why would anyone not want to use Bootstrap? 
+Bootstrap 5 is a CSS framework for creating responsive webpages in a faster and easier way. It lets you create buttons, cards, dropdowns, lists, tabs, and so many other things that help format your webpage. You can create a navbar that goes at the top of your site, and a footer at the bottom. You can create icons that link to different social media platforms and add search bars. You can format things using rows and columns. Most importantly, you can create these things quickly, and they'll look good on any size screen. This sounds great! Why would anyone not want to use Bootstrap? 
 
 ## My Experience with Boostrap
 
