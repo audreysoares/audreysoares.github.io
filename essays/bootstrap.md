@@ -29,6 +29,6 @@ Still, the learning curve was worth it and the struggle of learning Bootstrap is
 Below is a copy that I made of the website [boardgamegeek.com](https://boardgamegeek.com/). The links do not work, though it would be possible for me to make them work. This solely serves to show you that you make a webpage look good using Bootstrap. 
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/BGGcopy.png" class="img-thumbnail" >
+  <img width="800px" src="../img/BGGcopy.png" class="img-thumbnail" >
 </div>
 
