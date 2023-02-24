@@ -4,7 +4,7 @@ type: essay
 title: "Beautiful Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
-published: false
+published: true
 labels:
   - UI Frameworks
   - Bootstrap
@@ -22,7 +22,9 @@ Bootstrap 5 is a CSS framework for creating responsive webpages in a faster and 
 
 ## My Experience with Boostrap
 
-Bootstrap is not easy to learn. For me, a lot of it was just messing around with different things to learn how different classes affect each element on the webpage. It takes time to get used to using it. A lot of elements can have long classes such as *class="flex-sm-fill text-sm-center nav-link active"* where each pieces of text does something different. There were many times where I just couldn't get the webpage to look the way that I wanted it to and the solution being to add or remove something from one of the classes. 
+Bootstrap is not easy to learn. For me, a lot of it was just messing around with different things to learn how different classes affect each element on the webpage. It takes time to get used to using it. A lot of elements can have long classes such as *class="flex-sm-fill text-sm-center nav-link active"* where each pieces of text does something different. There were many times where I just couldn't get the webpage to look the way that I wanted it to and the solution was to add or remove something from one of the classes. 
+
+Still, the learning curve was worth it and the struggle of learning Bootstrap is so much better in the long run than the struggle of trying to make a webpage look nice with just HTML and CSS. 
 
 Below is a copy that I made of the website [boardgamegeek.com](https://boardgamegeek.com/). The links do not work, though it would be possible for me to make them work. This solely serves to show you that you make a webpage look good using Bootstrap. 
 
