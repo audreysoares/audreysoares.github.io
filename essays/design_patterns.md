@@ -15,7 +15,7 @@ If you wrote a book, and you wanted to be able to make several copies to distrib
 
 Introducing the printing press: 
 <div class="text-center p-4">
-  <img width="400px" src="../img/PrintingPress.png" class="img-thumbnail" >
+  <img width="300px" src="../img/PrintingPress.png" class="rounded float-start pe-4" >
 </div>
 
 This machine allowed for the mass production of printed material. This is the essence of a design pattern. A design pattern in software engineering is a repeatable solution to a commonly occuring problem in software design. The printing press not only made the copying of books efficient, but the copying of any printing material. If someone wanted to make several copies of a newspaper, the solution to copying books would also provide a solution to copying newspapers. There are many problems in software design that can be solved using the same solution, even if it is not the exact same problem. 
