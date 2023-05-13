@@ -9,7 +9,7 @@ labels:
   - Meteor React
   - Weba Application 
   - UH Manoa
-summary: "A website me and my team created to help students create study seesions with one another."
+summary: "A website me and my team created to help students create study sessions with one another."
 ---
 
 ## Ohana Scholars
