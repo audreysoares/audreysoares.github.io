@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/glass3.jpg
+image: img/ohanascholars/HibiscusPixelArt.png
 title: "Ohana Scholars"
 date: 2023
 published: true
