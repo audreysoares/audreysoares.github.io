@@ -7,7 +7,8 @@ date: 2023
 published: false
 labels:
   - Meteor React
-  - Webapplication 
+  - Weba Application 
+  - UH Manoa
 summary: "A website me and my team created to help students create study seesions with one another."
 ---
 
@@ -16,15 +17,19 @@ summary: "A website me and my team created to help students create study seesion
   <img width="315px" src="../img/glass2.jpg" class="img-thumbnail" >
 </div>
 
-Senior year of High School, I created a lantern for a class called "Creative Metals and Glass." 
+## Ohana Scholars
 
-## How it was made 
+Ohana Scholars is a web application designed to help students at UH Manoa create and join study sessions where they can learn and work on homework together. 
 
-I cut the copper metal into two square pieces, which I shaped into the top and base of my lantern. I stained the copper pieces black by using liver of sulfur, a mixture that oxidizes the copper, turning it black. 
+## My Contribution
+
+I was specifically in charge of creating the list sessions page and the create a new session page. After creating a profile, students can create new study sessions specifying where to meet, at what time, for what class/course, and any additional notes such as what other students should bring to the study session. Students can also browse the list of already created study sessions to join sessions already created, and filter sessions by their courses. 
+
+## What I learned
+
+During the semester, we learned how to create web applications and as we learned more, I thought I was getting the hang of it. Then, when we were given this project, I realized that despite me learning a lot, there is so much more to learn. 
 
 <img width="200px" class="rounded float-start pe-4" src="../img/bindrunes.png">
-
-I then cut the different colored stained glass pieces into triangular and quadrangular pieces using a diamond cutter. The design of the windows for the lantern were based off the bind runes for courage, happiness, love, and creativity. I taped the edges of each piece of glass with copper foil tape. The tape lets me solder together the glass pieces, because the solder will stick to the copper and not the glass itself. To solder the pieces together, I added flux to the copper foil tape, and used a soldering iron to go along the edges of the copper tape making sure to fill in the gaps between each of the pieces. Once I finished one of the sides of the panes of glass, I'd flip it over and repeat the process. At the end, I went over the solder once more on each side to make sure it was smooth. Once all the stained glass panes were done and cooled, they were soldered together. A copper wire and copper tube were soldered to two different glass panes to create a hinge for the lantern to be opened. The base and top metal pieces were glued to the glass panes to finish the lantern. The picture below shows the lantern with fairy lights inside. 
 
 <div class="text-center p-4">
   <img width="500px" src="../img/glass3.jpg" class="img-thumbnail" >
