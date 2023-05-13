@@ -6,7 +6,8 @@ title: "Ohana Scholars"
 date: 2023
 published: false
 labels:
-  - Metals and Glass
+  - Meteor React
+  - Webapplication 
 summary: "A website me and my team created to help students create study seesions with one another."
 ---
 
