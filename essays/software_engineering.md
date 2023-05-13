@@ -4,13 +4,18 @@ type: essay
 title: "Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-05-12
-published: false
+published: true
 labels:
   - Software Engineering
   - Coding Standards
   - Design Patterns
   - Ethics
 ---
+# Software Engineering
+
+<div class="text-center p-4">
+  <img width="1000px" src="../img/softwareengineering.jpg" class="img-thumbnail" >
+</div>
 
 ## Coding Standards 
 
